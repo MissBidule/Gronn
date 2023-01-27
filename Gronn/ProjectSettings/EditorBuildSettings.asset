@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start/StartScene.unity
+    guid: 24a93ee958d2efa4d9815b2b7c68696d
+  - enabled: 1
+    path: Assets/Scenes/Earth/EarthScene.unity
+    guid: 58796a5718e1a244399b9178f2007d4b
+  - enabled: 1
+    path: Assets/Scenes/Water/QuizScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Water/WaterGameEnd.unity
+    guid: 10a180f267fb84c26816f912358a6f51
+  - enabled: 1
+    path: Assets/Scenes/Water/WaterGameLauncher.unity
+    guid: 50d7895615b1d42bc991d0ee9158540d
+  - enabled: 1
+    path: Assets/Scenes/Water/WaterGameEndBis.unity
+    guid: e2ed29b37e9df449d89fd52fabc6cc9d
+  - enabled: 1
+    path: Assets/Scenes/Ground/SortGameScene.unity
+    guid: 40d6cd77862a44563990047ad3e19938
+  - enabled: 1
+    path: Assets/Scenes/Ground/EarthGameEnd.unity
+    guid: 522edd9390723406dae928030b575ad5
+  - enabled: 1
+    path: Assets/Scenes/Ground/EarthGameEndBis.unity
+    guid: 916111f0066fe4130956c6fdfc3f3fd3
+  - enabled: 1
+    path: Assets/Scenes/Ground/EarthGameLauncher.unity
+    guid: 41a925bb959d84bd59373d6b2bc5dfa5
+  - enabled: 1
+    path: Assets/Scenes/Forest/ForestGameLauncher.unity
+    guid: bc6f3ef93f99809499ced80f30e33f25
+  - enabled: 1
+    path: Assets/Scenes/Forest/ForestGameOverCarbon.unity
+    guid: 0ddf23b3a39a53f4e8aa76b32193c32d
+  - enabled: 1
+    path: Assets/Scenes/Forest/ForestGameOverPeople.unity
+    guid: f0d9dfe347b108a42834fc3989968952
+  - enabled: 1
+    path: Assets/Scenes/Forest/ForestGameScene.unity
+    guid: a2bbc68f74e8cb340ad30b752eaa30dc
+  - enabled: 1
+    path: Assets/Scenes/Forest/ForestGreatVictory.unity
+    guid: 339e2a540d62bba4282f8657bacf4f35
+  - enabled: 1
+    path: Assets/Scenes/Forest/ForestLittleVictory.unity
+    guid: e67e668909373ed48bd1f323cdea66a8
+  - enabled: 1
+    path: Assets/Scenes/Wind/AirGame.unity
+    guid: 6252ca7db1a0d4169b4f974f164af669
+  - enabled: 1
+    path: Assets/Scenes/Wind/AirGameEnd.unity
+    guid: e1ade12e165e048778fccbb175db7e18
+  - enabled: 1
+    path: Assets/Scenes/Wind/AirGameLauncher.unity
+    guid: 47971d1ec0ed9436eb5362c91e73b7cd
+  - enabled: 1
+    path: Assets/Scenes/FinalGame/FinalGameLauncher.unity
+    guid: 3341afda8512f004d848eb3b786ac8da
+  - enabled: 1
+    path: Assets/Scenes/FinalGame/FinalGameScene.unity
+    guid: 109b5bc92ac596b4cb566fd85970cfbc
+  - enabled: 1
+    path: Assets/Scenes/End/EndScene.unity
+    guid: 193a282aa98370e4fa56593d320dd656
+  m_configObjects: {}
